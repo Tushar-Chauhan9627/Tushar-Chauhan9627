@@ -6,11 +6,11 @@
 
 ---
 
-## 🌟 Featured Project: TMU CampusConnect & Student Result Management System
+## 🌟 Featured Project: Student Result & Academic Management System
 
 <div align="center">
   <a href="https://tushar-chauhan9627.github.io/Student-Result-Management-System/">
-    <img src="https://raw.githubusercontent.com/Tushar-Chauhan9627/Student-Result-Management-System/main/assets/mockups/hero_banner.png" alt="TMU CampusConnect Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/Tushar-Chauhan9627/Student-Result-Management-System/main/assets/mockups/hero_banner.png" alt="Student Result & Academic Management System Banner" width="100%" />
   </a>
   <br/><br/>
   <p>
@@ -21,7 +21,7 @@
   </p>
 </div>
 
-An enterprise-grade, high-performance Student Result & Academic Management System engineered for **Teerthanker Mahaveer University (TMU)**.
+An enterprise-grade, high-performance **Student Result & Academic Management System** engineered for **Teerthanker Mahaveer University (TMU)**.
 - **Relational SQLite Engine:** Powered by in-memory SQLite WebAssembly running live database operations across 1,461 student files.
 - **Faculty Master Console:** Integrated with real-time student directory filtering, instant marks/attendance updates, and a live SQL query execution terminal.
 - **Zero-Knowledge Password Security:** Cryptographically verified with per-user salted SHA-256 hashes — zero plaintext passwords, completely protected from inspect-mode snooping.
